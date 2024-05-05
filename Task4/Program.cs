@@ -16,4 +16,4 @@ for (int i = 0; i < numberAsString.Length; i++)
     }
 }
 
-Console.WriteLine(); // Переходим на новую строку
+Console.WriteLine(); // Переходим на новую строкуg
